@@ -21,19 +21,24 @@ Cd to build folder and use `./fileName` to run.
 
 The first window you see after running the code:
 
-![](/home/soolmaz/Pictures/Screenshot from 2021-07-28 14-52-06.png)
+![Screenshot from 2021-07-28 14-52-06](https://user-images.githubusercontent.com/37975269/128158109-6ff02be4-bdbf-40a7-90e2-5cdfb9c9cee6.png)
+
 
 
 
 Put the cursor on vertices and move for **inverse kinematic**:
 
-![](/home/soolmaz/Pictures/Screenshot from 2021-07-28 14-53-37.png)
+
+![Screenshot from 2021-07-28 14-53-37](https://user-images.githubusercontent.com/37975269/128158213-06ed13d6-aae0-4ce8-99c6-a26b8297dc00.png)
+
 
 
 
 Put the cursor at the middle of the edges and move to see **Forward kinematic**:
 
-![](/home/soolmaz/Pictures/Screenshot from 2021-07-28 14-54-00.png)
+![Screenshot from 2021-07-28 14-54-00](https://user-images.githubusercontent.com/37975269/128158313-355c2881-51e7-4e91-bdef-d635b3f87be2.png)
 
-![Screenshot from 2021-07-28 14-54-14](/home/soolmaz/Pictures/Screenshot from 2021-07-28 14-54-14.png)
+
+![Screenshot from 2021-07-28 14-54-14](https://user-images.githubusercontent.com/37975269/128158392-9ba86191-c58d-4a0c-b2d8-348c459375f8.png)
+
 
