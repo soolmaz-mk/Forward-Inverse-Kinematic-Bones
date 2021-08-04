@@ -8,7 +8,8 @@ The built binary will save in build folder.
 
 Cd to build folder and use `./fileName` to run.
 
-![](/home/soolmaz/Pictures/Screenshot from 2021-07-28 15-26-52.png)
+![Screenshot from 2021-07-28 15-26-52](https://user-images.githubusercontent.com/37975269/128157750-792bd8a2-b73f-4e1d-ab31-d2ecd0f6efbc.png)
+
 
 (**is_forward 1** means **forward kinematic** is chosen, 
 
